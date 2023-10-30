@@ -104,7 +104,7 @@ const HomePage = () => {
                                 <img
                                     src={sumit}
                                     className='home-img'
-                                    alt="lokesh-patidar"
+                                    alt="Sumit Saurabh"
                                 />
                             </div>
                         </div>
